@@ -1,0 +1,78 @@
+[
+  {
+    "pergunta": "Em que ano ocorreu a descoberta da América por Cristóvão Colombo?",
+    "resposta": "1492"
+  },
+  {
+    "pergunta": "Em que ano foi fundada a cidade de Roma?",
+    "resposta": "753 a.C."
+  },
+  {
+    "pergunta": "Em que ano ocorreu a Guerra Civil Americana?",
+    "resposta": "1861-1865"
+  },
+  {
+    "pergunta": "Em que ano aconteceu a Revolução Industrial?",
+    "resposta": "Século XVIII"
+  },
+  {
+    "pergunta": "Em que ano ocorreu a Segunda Guerra Mundial?",
+    "resposta": "1939-1945"
+  },
+  {
+    "pergunta": "Em que ano foi assinada a Declaração da Independência dos Estados Unidos?",
+    "resposta": "1776"
+  },
+  {
+    "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
+    "resposta": "1989"
+  },
+  {
+    "pergunta": "Em que ano foi lançada a primeira missão espacial tripulada pela União Soviética?",
+    "resposta": "1961"
+  },
+  {
+    "pergunta": "Em que ano foi fundada a Organização das Nações Unidas (ONU)?",
+    "resposta": "1945"
+  },
+  {
+    "pergunta": "Em que ano ocorreu o Atentado de 11 de Setembro?",
+    "resposta": "2001"
+  },
+  {
+    "pergunta": "Em que ano foi lançado o primeiro iPhone pela Apple?",
+    "resposta": "2007"
+  },
+  {
+    "pergunta": "Em que ano foi inaugurada a Estátua da Liberdade?",
+    "resposta": "1886"
+  },
+  {
+    "pergunta": "Em que ano foi inventada a penicilina?",
+    "resposta": "1928"
+  },
+  {
+    "pergunta": "Em que ano foi criada a internet?",
+    "resposta": "1969"
+  },
+  {
+    "pergunta": "Em que ano foi lançado o primeiro jogo da série Super Mario Bros. para Nintendo?",
+    "resposta": "1985"
+  },
+  {
+    "pergunta": "Em que ano foi fundada a Microsoft?",
+    "resposta": "1975"
+  },
+  {
+    "pergunta": "Em que ano foi lançado o primeiro filme da série Star Wars?",
+    "resposta": "1977"
+  },
+  {
+    "pergunta": "Em que ano foi realizado o primeiro voo de avião pelos irmãos Wright?",
+    "resposta": "1903"
+  },
+  {
+    "pergunta": "Em que ano foi publicada a obra O Senhor dos Anéis de J.R.R. Tolkien?",
+    "resposta": "1954"
+  }
+]
